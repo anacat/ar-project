@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4692349513327445739
+  m_GuidHigh: 8665669024131720377
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5169525607951456856
+      m_GuidHigh: 975831332161151641
+    m_SerializedTextureGuid:
+      m_GuidLow: 4554412260724799833
+      m_GuidHigh: 3142752736319256696
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Cheese
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4772283616186073185
+      m_GuidHigh: 5128707546720975259
+    m_SerializedTextureGuid:
+      m_GuidLow: 15354129814987006839
+      m_GuidHigh: 11390225745958162905
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Hotdog
+    m_Texture: {fileID: 0}
