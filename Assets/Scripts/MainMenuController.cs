@@ -19,4 +19,12 @@ public class MainMenuController : MonoBehaviour
     {
         SceneManager.LoadScene(3);
     }
+    
+    private void Update()
+    {
+        if(Input.GetButtonDown("Cancel"))
+        {
+            Application.Quit();
+        }
+    }
 }
